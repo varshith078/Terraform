@@ -1,4 +1,18 @@
 .terraform/
+<<<<<<< HEAD
+*.tfstate
+*.tfstate.backup
+crash.log
+*.log
+*.zip
+*.pem
+*.tfvars
+=======
+*.exe
+*.zip
+*.pem
+>>>>>>> 790db59cec05a837fbfd59df0ec46670c18ff491
+.terraform/
 *.exe
 *.zip
 *.pem
